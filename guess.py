@@ -29,7 +29,8 @@ def coreGame(number, guesses):
     else:
         
         try:
-            guess = int(input("Guess a number!"))
+            print("Guess a number!",guesses,"guesses left!")
+            guess = int(input())
             
             if guess == number:
                 print("Correct!")
