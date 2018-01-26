@@ -1,8 +1,8 @@
 # 02-Guess-the-number
 
 This program fulfills the requirements for Assignment 02, Guess the Number, in ILS-Z399 at IU Spring 2018.
-Blake C Miller
-1-26-2018
+* Blake C Miller
+* 1-26-2018
 
 * While my program avoids using a "while" loop, it still functions identically to other similar programs and fulfills all assignment requirements.
 * There are no runtime or compiler-time errors.  
