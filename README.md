@@ -1,5 +1,17 @@
 # 02-Guess-the-number
 
+This program fulfills the requirements for Assignment 02, Guess the Number, in ILS-Z399 at IU Spring 2018.
+Blake C Miller
+1-26-2018
+
+While my program avoids using a "while" loop, it still functions identically to other similar programs and fulfills all assignment requirements.
+There are no runtime or compiler-time errors.  
+This program includes a "closeness" feature: the program lets you know when your guess is close to the actual number.
+This program also lets you know, if you lose, what the actual number was.
+This program also lets you know how many guesses you have remaining prior to every guess.
+
+---
+
 Guess the number! This is the second programming assignment for ILS-Z399. The requirements for this assignment are as follows:
 
 * Write a Python program for playing a simple "guess the number" game
